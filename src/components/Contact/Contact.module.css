@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    margin-right: auto;
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+
+    
+}
